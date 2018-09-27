@@ -1,0 +1,6 @@
+D:\Testpath\TestInstaller\bin\Release\TestInstaller.msi
+D:\Testpath\TestInstaller\bin\Release\TestInstaller.wixpdb
+obj\Release\Product.wixobj
+obj\Release\TestInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\TestInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\TestInstaller.wixproj.BindBuiltOutputsFileListnull.txt

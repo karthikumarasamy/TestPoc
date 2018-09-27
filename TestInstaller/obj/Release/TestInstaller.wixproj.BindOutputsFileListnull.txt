@@ -1,0 +1,2 @@
+D:\Testpath\TestInstaller\bin\Release\TestInstaller.msi
+D:\Testpath\TestInstaller\bin\Release\TestInstaller.wixpdb
